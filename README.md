@@ -3,9 +3,7 @@
 <h3 align="center">Automating the Boring Stuff, Analyzing the Truth 📊⚙️</h3>
 
 <!-- Centered Techy GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/LWps4guoNxa3PovzPU/giphy.gif" width="300" />
-</p>
+
 
 ---
 
