@@ -1,14 +1,5 @@
 <h1 align="center">Hi, I'm Rahil Khan 👋</h1>
 <h3 align="center">Automating the Boring Stuff, Analyzing the Truth 📊⚙️</h3>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/LWps4guoNxa3PovzPU/giphy.gif" width="300" />
-</p>
-
-
-
-
-
 ---
 
 ### 💻 About Me
