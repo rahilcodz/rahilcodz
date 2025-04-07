@@ -1,12 +1,31 @@
+<!-- Header Title -->
 <h1 align="center">Hi, I'm Rahil Khan 👋</h1>
 <h3 align="center">Automating the Boring Stuff, Analyzing the Truth 📊⚙️</h3>
+
+<!-- Centered Techy GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/LWps4guoNxa3PovzPU/giphy.gif" width="300" />
+</p>
+
 ---
+
+<!-- About Me with Side-by-Side Layout -->
+<table>
+  <tr>
+    <td>
 
 ### 💻 About Me
 - 🔭 I specialize in **Web Automation + Task Automation**, **Browser Scripting**, and **Data Analysis**
-- ⚡ Skilled in `Python`, `OS`, `subprocess`, `requests`, `pandas`, `pyautogui`, `numpy`, `scrapy`, `version control`, `sql`, `data visualization` and `webbrowser module`
+- ⚡ Skilled in `Python`, `OS`, `subprocess`, `requests`, `pandas`, `pyautogui`, `numpy`, `scrapy`, `version control`, `sql`, `data visualization`, and `webbrowser module`
 - 💡 Building mini tools to automate repetitive tasks
-- 🎯 Aim: Become an **Automated Analyst(Analyse the data through automation scripts and bots)** 🧠📊
+- 🎯 Aim: Become an **Automated Analyst** *(Analyze the data through automation scripts and bots)* 🧠📊
+
+   </td>
+   <td>
+     <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
+   </td>
+  </tr>
+</table>
 
 ---
 
@@ -27,5 +46,11 @@
 ---
 
 ### 🔗 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/rahilkhan-dev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-grey?logo=github)](https://github.com/rahilcodz)
+<p align="center">
+  <a href="https://linkedin.com/in/rahilkhan-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" />
+  </a>
+  <a href="https://github.com/rahilcodz">
+    <img src="https://img.shields.io/badge/Portfolio-grey?logo=github" />
+  </a>
+</p>
