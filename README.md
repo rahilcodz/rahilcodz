@@ -1,4 +1,3 @@
-# AboutMe
 <h1 align="center">Hi, I'm Rahil Khan 👋</h1>
 <h3 align="center">Automating the Boring Stuff, Analyzing the Truth 📊⚙️</h3>
 
