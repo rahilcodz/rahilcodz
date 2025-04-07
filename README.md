@@ -4,8 +4,9 @@ Wants To Know About Me ?
 <h3 align="center">Automating the Boring Stuff, Analyzing the Truth 📊⚙️</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/9DAB3sQ0midyFLSt6m/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/LWps4guoNxa3PovzPU/giphy.gif" width="300" />
 </p>
+
 
 
 
